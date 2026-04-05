@@ -38,7 +38,7 @@ The dataset contains French electoral manifestos from several legislative electi
 ## Project Structure
 
 ```
-PROJECT
+french-political-text-analysis/
 │
 ├── data/                # Raw texts and processed datasets
 ├── notebooks/           # Analysis notebooks
